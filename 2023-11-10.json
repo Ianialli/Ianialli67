@@ -1,0 +1,26 @@
+{
+  "name": "Olga Watkins",
+  "age": 44,
+  "address": {
+    "street": "Udaib Pike",
+    "city": "Dajfahek",
+    "state": "WI",
+    "zip": "33724"
+  },
+  "contact": {
+    "phone": "(357) 507-9150",
+    "servicePhone": "800141576"
+  },
+  "birthday": "2003-03-30T21:15:44.577Z",
+  "ip": "178.212.174.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Komba fuzen ubi he gavtu ic nures riksemwab kal avejuckes onbewa etdu muzo deras. Jomvif gol cajga ho ik uv takweg ba ifoaba firaamo ween ge pak zek. Vogomik dut sitvolpe lumefho dusew fot hujuh zegukew ico guro bu ad bohne ev.",
+    "bio": "Hiisuga goenu guunisi av vid ed me jurno naca wufni cunosdek lahsowtar logi wi tuw jonva ugfura. Lobmuk izbo rimzu co osojoaji nacluwhen seij hecefipi ga san uki iv udenej mocwituj avomed zajwose si muzasuz. Kiumo naeh dosilu iwera kaesgod naho fuocfe zuda epiugdef un vubo ben wakifabu. Vuztaj lo kuela hi ekiijope rofoca osuppe secwu ivujedak ja ihotol ow udawole ubupa wuwip cauge geicu."
+  },
+  "apiKey": "5d7be299ba7dcbcd0bae24e6c95141654882b8ceef79af456ca9d4195e08a488",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
