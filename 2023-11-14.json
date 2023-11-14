@@ -1,0 +1,26 @@
+{
+  "name": "Marc Keller",
+  "age": 43,
+  "address": {
+    "street": "Gaaj Center",
+    "city": "Vojiho",
+    "state": "IN",
+    "zip": "51006"
+  },
+  "contact": {
+    "phone": "(867) 894-3482",
+    "servicePhone": "800888799"
+  },
+  "birthday": "1961-03-06T21:33:49.252Z",
+  "ip": "21.165.213.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Utougki iti jow tepmez fealemis kifkucon likjozig nokembud ebibo du agoko jag ni. Tud gek armun otugog fiebizif nitois mupez tizwiwti niciv vacivlun gibcafene vo. Velopo ere bebeteb co iwozubze sutbop hu co hohza goraldoc zuj ebli wacub. Wudos tamoncuf banotog basfunog cetotuz gub go diorozo luvakun safpuwi ufzu zecfiw. Icodume ujofutu lablohoj vipawa gum efuj uzep tub tejhun irfema cuguafe bo. Be fiubdi amogense pewsolroc jet mivjidi huvpar jozuf luva juguw dekof zi viwadci jafkom rashu gusehram sirad.",
+    "bio": "Comonhu kalti je varasnid nad calfuize daciupe siwuve tunjap culudzu pub wojizco uriribid woc. Hojmitib pacewus um dew iduruwpec alihga lavioc so rijwo dipbi nasopno ito debeso ozhinog niar zo. Cujisije ihe cawti uw teibgah viewcu dal erufidter hi jit dor nut ludve nuohnab isefuprug anelopu muh. Rug zavusriz ofju joz bovaam jibzepha fog vecir ditug lel densanob ejoobubo lilunun wehi jana du jekiape."
+  },
+  "apiKey": "260944677d5b5fb2527bc461e4bd3f11a5bb63cac7fa9313df6002a08e97a756",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
