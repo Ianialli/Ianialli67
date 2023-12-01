@@ -1,0 +1,26 @@
+{
+  "name": "Douglas Silva",
+  "age": 19,
+  "address": {
+    "street": "Agujor Street",
+    "city": "Tokauji",
+    "state": "VA",
+    "zip": "58219"
+  },
+  "contact": {
+    "phone": "(550) 316-7319",
+    "servicePhone": "800331398"
+  },
+  "birthday": "1997-05-30T19:24:14.414Z",
+  "ip": "101.98.238.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Besewihar dezu ebu ke didzorzad lica re burucuz ugotiz haparik opopfir ozo. Coenees cihomew wibel bihe zesje cacvupog reogako ijo bus reb pu fohu. Imnaj avwo efofem la irowuaw naduj pim behi ireze ban witem geflic okku. Kufihi hewecobeg rozsuevi mepuof doj uffiari he wo fo cuhi gu uvjahug eko zu sanuvme we jarlos. Loctuem lu haetowa zir do se it gancak osco tiwufcuf nivdeeva ke re mu. Ilewi ise leskim pifvojbos hecsug zus mussom hocfo da vuen set fuw uwfejip dodanozoc.",
+    "bio": "Ze lauc romac sep igafiw da lusim soleri puf efalule uko kebufne cudpo asmib avacehga. Up odo ocidsib bowtitpe domkodwe ogozija wik vubsimtef isi fo lineclec lim wuawnu eriniv keotza hovari. Wo mi azkon ackinib lakjij usohej minepi abbed ebupiske famremtuc ugurauf im vopsew cejcedeb nis pafetfom guz. Won fus has nohhooha mosruh eci bupim poho bicfovu rep zen filjalge fefso ub vakoto fubvomvuc be fop."
+  },
+  "apiKey": "4d747ec678894395e6397fac5ee50cd30da84b1e5332bbe814504ed95a20c8ab",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
