@@ -1,0 +1,26 @@
+{
+  "name": "George Sanchez",
+  "age": 39,
+  "address": {
+    "street": "Izifaz Path",
+    "city": "Vuswaoro",
+    "state": "MI",
+    "zip": "19719"
+  },
+  "contact": {
+    "phone": "(368) 399-3226",
+    "servicePhone": "800955474"
+  },
+  "birthday": "1970-08-08T18:17:06.220Z",
+  "ip": "52.161.131.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Hiju hezzur gujokuv izagah cewa juzegje deranpuw etapaodo ra sehsa ma ciho wukomaude no vujruzjak iweloc votci ijagotil. Lewlub buf go wadun jijovo bozdoso gawkid nigje taz leznu joh raci soca. Oweha lasjicup bearevi zizom cab urociha lur mir si ufinuk bez jop jeflu kien ew ube. Lu mizba retehu wokce dan dukiv rakiha joncefo bemdofhe gupu bud boghojene isisiw jug sanuner uluevne ecasikuz heneacu.",
+    "bio": "Kuk wov ebmoc vuwlucu abo ilga ti tuozo pav rej hetgoora eg ce parbu jas gurtil dun ozwidat. Je fesu ni ditmoz se fa suvov ehpe gaj wazevibam mouba maafzeg no wadzo. Kewesus lu gu de haweshi mizseza ame tudpabul apo buuze avicwor cinuwna efe. Zemaj opifev fof jezgurdow ka weej kekijadad biz mibej ruzjudfic wohni uhbar. Winwuvev nunal menoba nophundu en wa jov wa zobpezbum odrefin fih widacas kuj koutufed peh janur. Haf zoguksi jot je pun timdom ecsakji vipgi lebigavim ica dip taghad umjo fahzovke renegon."
+  },
+  "apiKey": "5becf69cf86cd8404996e84570ad90c6853496fa7fa999ad4027d00abcd742bc",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
