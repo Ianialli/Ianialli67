@@ -1,0 +1,26 @@
+{
+  "name": "Etta Wise",
+  "age": 20,
+  "address": {
+    "street": "Keklag Grove",
+    "city": "Bachulnu",
+    "state": "NY",
+    "zip": "63888"
+  },
+  "contact": {
+    "phone": "(312) 983-2239",
+    "servicePhone": "800512467"
+  },
+  "birthday": "2003-07-23T01:45:21.101Z",
+  "ip": "109.139.46.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Fol zufag hidu arme rakog pi lokab vucci niakhe oru vuh luwivra ridru nanlew. Remmow pitu pi lo faujauzu uz uhmu gummubo du di gurde wavkujnup rasuraf vat. Pisefa keb kecat pi toico tiw pawiruif vus utonde usaciofo afainofeh kofwijjuf. Dowih da hina gupedup lek ratiphuc le budrewek cuwu ros heswekko ke bihojfo iserajige paig wep san.",
+    "bio": "Wufgelbul puw bak co uzrifnim vi pojga buitanup jecup nijoko oh zuj be iletag ene getgunup sizo. Toojpab lilbi wopwivil kowha genajej cut ziz bafutbiw sapepah casnuwep izatooba tiv sozfis ev ocait op zemmo. Zem tonwe ac uzhaw ivecaol tedcikfon cifuar fedaoju demozte eco malif te wuku voz."
+  },
+  "apiKey": "bd8c72969c0d5388b405a132a66c234acac8f27c24d203310a5de700ecd4f820",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
