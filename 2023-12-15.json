@@ -1,0 +1,26 @@
+{
+  "name": "Nina Vasquez",
+  "age": 23,
+  "address": {
+    "street": "Olfu Key",
+    "city": "Idibora",
+    "state": "CT",
+    "zip": "03237"
+  },
+  "contact": {
+    "phone": "(307) 725-8919",
+    "servicePhone": "800642181"
+  },
+  "birthday": "1991-02-03T09:54:56.204Z",
+  "ip": "149.194.7.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Miheb basajwoh sikocozu cagiewo colce zo ik dillub gafali give su taz uba udewoz. Luzwu ecu afko vewoda arelu zuewdum docazil luj weghab buarru ucihugo nubojici. Pele ageena savgij ima ikafu zi lokid tubesu kiw wus horuir pipid firobju lawu zonwa. Acabe ki zojudrin ab meus ziwha ziminukik jocvoluw cewad nas ditzul ij hiz gusfanhab be.",
+    "bio": "Huhso pamne pazaz hegu bepuj deji fuafi wi beopco piowa unoce luse fuc sunzejnew. Van nov jinutos bodumoag cicomne lut hujrapi ije bipuzil dakdopiw omubiv imawecib liojuno. Wamdilam amci ojfih bebhe na cesmipi zaviheli hebo notoono zekem defib pifev piosaur la pewa. Vogaeza zokgi haj alnejidu tu teje puwgoj su leb ez alral cihhehu cuzezku mesizoc roajiwa. Subves suaraco lar merfuku olititewu za vi isamoh heho fullesim nuecki nojoc zulki mez. Ibijeco wokderuje nijon ipdowe oweuswe pius ki fuvujawiz wopida jofi zigud nu uvocoba."
+  },
+  "apiKey": "db56a5cb9347d1c365e5e3eef2b484cf648630c35bc537dd86793274e5778e5f",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
