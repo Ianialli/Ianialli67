@@ -1,0 +1,26 @@
+{
+  "name": "Jane Singleton",
+  "age": 27,
+  "address": {
+    "street": "Obosi Parkway",
+    "city": "Ugbitzow",
+    "state": "TN",
+    "zip": "91083"
+  },
+  "contact": {
+    "phone": "(839) 975-4789",
+    "servicePhone": "800232564"
+  },
+  "birthday": "1990-03-14T21:03:54.551Z",
+  "ip": "223.64.244.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Diddocol sul na vowic ziw jibafo jasif idmub cansu uvset ejjad ga tisger. Tadbufa oz tadba bomep zicwaha arveso boz rolno rigkevrek hot be ca si wugi avomal fuoc duofibuv bab. Udpis ifo tujipic gonibir ecnib catihjo jowetsi ejzi vajnuku nernama rec ure.",
+    "bio": "Toaw ocajisu we uvi jikavhap widoguz ginjigat weldudgu enobavcil wiubojuh rarmazpas boda fuomaovo haratniw cojim rofu. Vuvlelfof acuti walwur pufub saw raul mi pelgob ugefenbod ugimeho so ni cir vatauv pezbe. Fit gigodip jem jomub onoezu nikdopwow sic topzackiz im mokmob sipno givu hocfor mug wetocu epnoc lujlej red. Awipe garsug jik sov edivugzat juknutog hop dibab ezi epupareh ahewoj vih rajrig wal iflah do vulnebwi higdaesi. Upozit azubiz un ibemuv merkilso odu os tentihjup ban dohneh romaof didipa umohmad. Hubbuf pac ipa jivhe di imro uwudela jik put dezecvi bu med. Ebi weiceni huimema leehuke mekah loj jo divicelo usi himilco se oje uvezi lulki hafvub."
+  },
+  "apiKey": "d88a18fb19be866f969ee076a6c9409b233e725078a184104e21c620d993545c",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
