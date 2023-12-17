@@ -1,0 +1,26 @@
+{
+  "name": "John Shaw",
+  "age": 50,
+  "address": {
+    "street": "Funjo Trail",
+    "city": "Liinrup",
+    "state": "AK",
+    "zip": "87138"
+  },
+  "contact": {
+    "phone": "(351) 826-2306",
+    "servicePhone": "800556172"
+  },
+  "birthday": "1991-11-11T13:41:33.181Z",
+  "ip": "188.32.123.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuvurzi ilohaz lu ahzebes awlu newok ija kul habimoj dine sarmaczos samafe geote ub ijopeka zovta semnu. Liwacu dataku va zepsi olo ofa lavodwa enudoj ammisu er gomrivir inu elmoj. Cufij ce nagan joene zifod juw iruresos jojvuhmiv mibe gokdop sa beraloma nerfikmo je jufvibek hamjan rovcigbuk. Rawwur riro deje liohogoh riwasso tulikco inebum rota bawuh gozen zug rumahupo tadjij uzu fo pigho wi gekfekwiv. Dilizuf mazinwa divjehe niwneh fucmufev re lohus ra orerarli nonlide abdes wopdu. Daef nifhecmu zaveza hildu bewire komlo misico naav kum si ber jan. Loldo ez vahih ubhasum icocir gub epela lepfuplew tajebena saja derub fe seshiconu.",
+    "bio": "Wefnep mivsi diwujaz ne ba ocehatkib be viwto osnocso oj awo towojo ab ac unawurga. Jemiga eb gocekut ha likozuhe kok zuru ef jiazope tohvud wadiwen ifebu wi. Da fucnor hok tiofoku ob ofaukato zavwahmek nif zolcunpu iterak ra ucbe caahfad codpip enfihma jamum miicwic ibbaodi. Rulep werluz ognif te baf teuroip sub hopku er faj wupohsig gepior uzomibtej dutaneg. Imali ozu zenjuhfa jopaki webwaci raesi zaleppur gu lug vuimobuz natu bocoh sutotfig juvganvo."
+  },
+  "apiKey": "c4f4eb505feb7ef0295c9b196b53835e6362e71dc3a199f92fc9833e6a8c6018",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
