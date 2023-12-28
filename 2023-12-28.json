@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Hall",
+  "age": 24,
+  "address": {
+    "street": "Nimo Square",
+    "city": "Osruem",
+    "state": "OH",
+    "zip": "10980"
+  },
+  "contact": {
+    "phone": "(412) 370-7066",
+    "servicePhone": "800315989"
+  },
+  "birthday": "1974-05-25T22:36:48.293Z",
+  "ip": "230.73.10.111",
+  "foo": "bar",
+  "profile": {
+    "about": "De ta in bocec aja ecfaj taofalo iwa foaweda iszuh pu novlur ta hacaphi er gularapa koceplod. Gasujmes covpo botamov cari romirnac anmi jupa vuuba sezgov avipuvla azve soh wu aca hebfabu zep. Humdarewo vo la uhwon ege ero kudupkek lol pu gaar egi egibu va.",
+    "bio": "Puk fuz od tevwazjaj hohjij mi migebe ipuas tapgiz zomda aflitvif ficuwbov zanbiovu po ogijawo. Foh sibtuvuz olgu acevefnav fes eru pugsuf upo lamu vapiji manwuvi tosiz ena wuvjahul. Baj ino rafif kuakoco vosoffol kaocugab ho kuprure juhgel me fekpuppe awiuno udu gisi jo civiw cuhical cihpug. Zov ofriv lujmuduh fohogpah zelcin tob ib wisu homov bob wijotot wircub. Wumus cani hivze ku motcida rafpiz kidfe ekoza ageum roonuzo ci kuja pu."
+  },
+  "apiKey": "ad373a58e1e6475390c740b58c68793ed73a2488618e2348208b609b9cde049e",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
