@@ -1,0 +1,26 @@
+{
+  "name": "Ida Joseph",
+  "age": 27,
+  "address": {
+    "street": "Ibalul Glen",
+    "city": "Levsagun",
+    "state": "IN",
+    "zip": "81209"
+  },
+  "contact": {
+    "phone": "(867) 333-1597",
+    "servicePhone": "800693249"
+  },
+  "birthday": "1988-12-05T11:49:08.377Z",
+  "ip": "238.125.244.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Veza cug ma ufa buk dok kazif de tihihjo hev rarov dalfucge docejno. Waruzoen uvte nu epudob nev hi to rok tanuapo uhnas giuhocof ir. Datof pab dajoghim radtu agomobpa nucium vosa ad zifu bevvafu mir rojgidab pakkudjum jarla.",
+    "bio": "Rakhusdu mojvaat eg dibrowpi bucinni kouse sitne abcilnes patevva wotopa mapijpon deluuc bapkas wajciiwa. Zelu faper ekiette wip tunezi gewe dul ja nuva riuwu iri ti fulfeb buw se ja. Puh mu ri dockin havelu amofeutu fuaj riwsawbi ujpikun ticoj gujogaki kojum is fefilron jo taz."
+  },
+  "apiKey": "5077f0ab4a0645663338826a6c2f421c7104991575b92f7ee1e784e2f8db4e9a",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
