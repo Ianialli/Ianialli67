@@ -1,0 +1,26 @@
+{
+  "name": "Harry Taylor",
+  "age": 38,
+  "address": {
+    "street": "Subku Extension",
+    "city": "Digzimi",
+    "state": "KY",
+    "zip": "21347"
+  },
+  "contact": {
+    "phone": "(686) 991-7637",
+    "servicePhone": "800993592"
+  },
+  "birthday": "2005-02-27T19:49:43.762Z",
+  "ip": "86.177.33.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Wodpoc jeka hoguda lobra fa totohadu fattoncok wa josipi af baap sa jibfev ziji et zaw. Cac korde ragemke anima umroezu aji hu zufek owaju opuobgo zurfow ziw pi hidmenfec fejbeddak. Obowaf wo epafu jusasis ku ni ciojopaz cahbod pi zutik ucceh erairo bezmo. Zevupit ruetug purave hoil ad zornol sezas gemloefe fe efico hinzujgud holuknog zet kokatga diof to luka. Rowet wodob puvfozta se jadbad mam hoplarrij fo kopodhaf udenagpi pa lo. To ubasebok viwokimig mugwawlez wi moveh pivvamhu tiscup mufrov dakeimu hitatiow joluzek abe it tes. Tu sa te sidaj gacfo lec jeuj gulami gup nem hetwufal satkapedu zuide ditbelju.",
+    "bio": "Gujgicoha akzufte rem ni bo du fatife namgi di pusum vire af. Ciglipde si araza pejru niowecij vut farri ju falaes jiloj gippimkok si navdi hahli pe kezumwij. Pawpe misevje hib fusi zosubu belugheb jaste maofu gawvo ze hodwesok idozuk puev nelsilef pupkutila bep kekovogi."
+  },
+  "apiKey": "c42d1469a3969cd649fdecd399c62fd023b91790afa545675d3ce2f530d6d451",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
