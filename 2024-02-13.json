@@ -1,0 +1,26 @@
+{
+  "name": "Edna Moss",
+  "age": 28,
+  "address": {
+    "street": "Pihi Manor",
+    "city": "Hohahsu",
+    "state": "TX",
+    "zip": "87501"
+  },
+  "contact": {
+    "phone": "(835) 386-5394",
+    "servicePhone": "800276457"
+  },
+  "birthday": "1989-07-11T17:21:56.521Z",
+  "ip": "156.221.166.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Genlezo babej rehev zagip edo mofsazife foh we okesoda ic akagic te iwotibos vaj et sivte uz geje. Buvnati tulosroc ta mohe pilij vemu opu oka ulavupu ohecokjaz sotpik ipi fimpuf. Jeze remoro tuba rekoga nebihjo ipoak gu okuzca tab hopule sulzo ewhigol omolocmev. Zerdol tukopaeze iw juf melgohit zevnuvjik hohseule pi he enbig eru ujiceed. Todehluh onuoposi ka gowco nar niw rien lecva catulejo nomav vuasiku maikgu nir pipir kunnu muf zegfajju.",
+    "bio": "Rol re pib vut vidazam epi zablodo lagrak resgak pakke reufu ar vucijzer uk. Ukuubo bozsojuc agehiji obufol am hob fajiz sudvaf veg oz noppi dow zuh cevmosir ub. Lugnat to uruvegek ehkiiri apavuhe sipnal si kol mel wutgamav tem esa. Tewrukuge wo ijcojed lu wattedgir wurowecin odgop vizoic civihaj olenu igiz pevdov."
+  },
+  "apiKey": "9d20a40946caec65922c0a65aaa12ea0d4e0d4f9842ef473f6e348319c062dcc",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
