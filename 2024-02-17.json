@@ -1,0 +1,26 @@
+{
+  "name": "Sylvia Harper",
+  "age": 30,
+  "address": {
+    "street": "Pivba Point",
+    "city": "Anulufig",
+    "state": "NM",
+    "zip": "23989"
+  },
+  "contact": {
+    "phone": "(204) 967-2768",
+    "servicePhone": "800146431"
+  },
+  "birthday": "1963-01-04T22:22:46.869Z",
+  "ip": "18.189.160.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Iki kebravron fekriaw kotobi ukubel waced cub vednuz lihfad olicigpig kuhmo gewpokuwa coaffiw urodu si. Gazampov hum tapmi am ecisu ig putwujav ev vo ko lajol gaezolo pegin cais. Baras bebwuv gaugeke igeju kihude abodgi levabmos ve al wotaz jenewmab pa nanu pohalir wun. Zutiw kaneum li ocujej suurome menzineh teebidi jo awcinova faini fechi bipop. Rowuhas ineisetop hedoj woda dodet pefi gim ha waboga iw zoctodem vuofbih cezataro tu sosiw satfaisu disurda. Ojukuruc huleaf ca bisfuk mukjipuh alnuwow gakuldef vaskora ezigi ginuojo hu pon rekcazsuz numzokzel.",
+    "bio": "Janel evaakoho lege egnimuh abzej ivsi dumafru osuzo muk nopedini fuh duji nepduhcor tidtog obir vieja nikep. Cidhi jih go natfelil harimive ilafit li vosser lohifopo dokcusdi zobi la wupmoncun so av ilaopi. Za lepoz gakniwuw gehnojla devde rogmimra vedeg rago vucza ropetifa povnan toke."
+  },
+  "apiKey": "a03b19c2e186c85f32788162a0dbf073a6d491f84e74389ebd268809b56d32c4",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
