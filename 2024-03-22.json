@@ -1,0 +1,26 @@
+{
+  "name": "Jesus Rowe",
+  "age": 33,
+  "address": {
+    "street": "Boog Pass",
+    "city": "Ekrizvu",
+    "state": "IL",
+    "zip": "14764"
+  },
+  "contact": {
+    "phone": "(203) 545-8483",
+    "servicePhone": "800755342"
+  },
+  "birthday": "1990-01-06T02:02:51.648Z",
+  "ip": "180.137.11.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri kez ja guz ilfa piwvialu junulmer soz bun far ko roput fis bi suwu hitheved tazpuba. Resweer ku zeclew cumohus gefitu todov move sas jocakco ibi vinzumur zi assipa. Cokmopu guksavsu ji gujmilpi zef ag obpehiz giga mudbo kozaji happusko hon ra.",
+    "bio": "Jurni ewiipe jazuf kukwekwa sonle luluwe nob bewuva fem gutbake mujeb ko uvte migep aba biba. Humlil ajeapbek dosatil gijvif fenajbu tadba bib fov jacouco raihsi oze awotiado ane zer. Duvefi woizme raksoasu onofuwe dejoca ere bejabar genicup oruida en wamwagpu il hadak topce ra nemakalu."
+  },
+  "apiKey": "c38ae07a3d032e2f9eea597be14e85ee54a89ebc46a303b516bac7bcce5a2bda",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
