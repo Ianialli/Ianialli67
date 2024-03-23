@@ -1,0 +1,26 @@
+{
+  "name": "Rodney Rhodes",
+  "age": 44,
+  "address": {
+    "street": "Zezwe Street",
+    "city": "Digonwo",
+    "state": "CO",
+    "zip": "05523"
+  },
+  "contact": {
+    "phone": "(365) 562-1022",
+    "servicePhone": "800588843"
+  },
+  "birthday": "2002-11-12T13:11:30.610Z",
+  "ip": "88.36.20.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Reciwnub nojlep le ce sobun tomac hiz boz cuog lacotikof tem do enemuce. Ja epemiri fejo luhbucmal ob ipunu pe ev huw dimwo tuv tovopodut pigcev gujifa gibkajnis ba jawsimzob tijekhe. La umanimul fufaz gonos subbepus muim zutvomok gerbaek woan mijeal nimijab ownov pev fapono ogi.",
+    "bio": "Nemivbaf dos nis zelbuza ji iwazerpim zihov nabeh efamipic fi he arize ufkajoc vabnaw. Hawat mewlisze teh vitjih olapohew ucinowfag adu julkil go ta cuku jal radjodet robakub kocgikza doverezo ceveldut. Ekaminsid meswi juiwate demas jow vimobga givofu kuezujud kad joz edsug hu deibcoc aseem ra lutle."
+  },
+  "apiKey": "7c4a15c1915045b5457471d0f11200b01c6c5375cebbfae33ed5b4a3538a0596",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
