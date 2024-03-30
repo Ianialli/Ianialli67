@@ -1,0 +1,26 @@
+{
+  "name": "Tillie Berry",
+  "age": 28,
+  "address": {
+    "street": "Pikolu Glen",
+    "city": "Egosip",
+    "state": "UT",
+    "zip": "72442"
+  },
+  "contact": {
+    "phone": "(924) 981-3901",
+    "servicePhone": "800297332"
+  },
+  "birthday": "1985-11-15T14:33:46.761Z",
+  "ip": "18.231.5.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Tik sa gaglihe nilujeh akhus mijejun dehzof rik idlen elu hogi ipudune denbitdur ge obcu. Poob ij tibsam rok pejozma sebahko fuhus kabesam neprav fopufebe zir dib. Aljibe bihah duj ci kehbe emuopeni avjizi caghij boricag docafte domac be kijuwuh fanim tivratzi.",
+    "bio": "Lin enjid hehem resuvi wec ob juzov onunair ap rofusumov bethe me rezje odelavvot abi. Ciko gobluwaf zu zot uca ro kuheder pagdeki ifagore adgakol muvegi tovce zo cup jahabvel. Tup jakfad pohaf rorila pe de uzu ihkureg paejwam satnuh egoguc sa puma kukeb. Ze bakil puzjaju roen ebru hidoka necepkov belies zupsoweke ukisodon dosowu ujacuzzap od. Ri ha eho gizletohi ci salajti juwavaw kame fikga vu navas kafluwbom fo."
+  },
+  "apiKey": "b97e668db52f4baf11f806fbc004859cd0d785ab0ba54dba111e5e839e4b692e",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
