@@ -1,0 +1,26 @@
+{
+  "name": "Angel Perkins",
+  "age": 25,
+  "address": {
+    "street": "Hunu Avenue",
+    "city": "Keowetuh",
+    "state": "TX",
+    "zip": "24024"
+  },
+  "contact": {
+    "phone": "(237) 525-4288",
+    "servicePhone": "800694435"
+  },
+  "birthday": "2003-12-10T19:44:28.184Z",
+  "ip": "195.170.182.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Bamolon mejunod luf uvve pupa cor re ubom lefco kosa zavib vadsabji fi rawakwig punadam opile ve. Golpemtol wew bijfi parravdo nib ka eceaboho siprazdib vaaceuro mezsuaz fam iteebe su. Necupve onodur wod dop somgaor naeg vevo dirusa kegvenwa hi situp fur porfuab dapek ihepuh bagunruh. Risa etecehis pomesmo jukul za ma fa siw dev obko jano farliez afaafuro hun. Ku pu vis oswutcak lufowja pepbej foheztu fipbihcah umodupo bubuwcut wafbife uwodefi. Fe remitjo welva tibba so jov tazoca las vog kihcetgip calgeznu il lijgiana zavoniej verlud ju. Cowo ajpev wiepibe gefjojvo wedenume ti debah lezmuro lapevu wor orahuw bebbuwok.",
+    "bio": "Lizrol sav uhokoti upvun bebim wahkipzo aveap ape devcu aruotsil hijute isalipad cindih kirit. Unbam iknolvo koso temvo avejasid poho pormuwa ripulov zadveh radec ameekaza suava keruca zocepeh eswe bigmug. Ke jew saataizi haom bi bunum jec ratdegvij fauh pibuci uba ehegevga tut niho soflavu jatagan."
+  },
+  "apiKey": "8e315dd3114bff7d173866b40930e0c880c6c1da75ae6cf9ecaf529d31d430e2",
+  "currency": {
+    "code": "NAD",
+    "name": "Namibia Dollar"
+  }
+}
