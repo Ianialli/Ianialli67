@@ -1,0 +1,26 @@
+{
+  "name": "Emilie Jordan",
+  "age": 39,
+  "address": {
+    "street": "Joror Turnpike",
+    "city": "Kekolko",
+    "state": "MT",
+    "zip": "08473"
+  },
+  "contact": {
+    "phone": "(205) 220-4492",
+    "servicePhone": "800874448"
+  },
+  "birthday": "1992-10-04T00:08:58.216Z",
+  "ip": "152.210.199.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Itiz ocu cala di gek hestu caha pe jazasi dusa davuj ezegulej nu sezud wolwu ceruat tubo. Vodah fiziage osuivibo giano mone ukoedgab tes bin hej eh bohe osubi. Regom sivo gi vifse teub fev ac midkileb bafjejo eda esa hage. Nazi lovic honidanu ti monruv towhifba depti se du luhli ig wini ikicuhuv etiewojo. Co giwwikep ihjuz paco abif du fom naedal cib nut ca ha buhrasiv akila zak.",
+    "bio": "Lejkog pesaru ketzi eg avrokanu non tane wal hav kud inizaj pu ejesiwuvu hu vo vor wuh. Kuwhinlib lij ibnim canmopkud zovokim hazwuh gija pa jostito bo muforo lohamu likofa. Maf ur safupwo umguuv wuhme zogorfoh ic ivufole jaise pitob pekaf okevaj osnil jakzo gibuze ob tu cahi."
+  },
+  "apiKey": "2183224171f96dc4663594dbc23939e476655313dbf31430b0c5afd506efa5e6",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
